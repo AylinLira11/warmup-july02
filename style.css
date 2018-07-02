@@ -1,0 +1,37 @@
+nav {
+    background: rgb(28, 29, 134);
+
+}
+
+.navbar-brand {
+    background: yellow;
+
+}
+
+#triangle-bottomright {
+	width: 50;
+	height: 50;
+	border-bottom: 100px solid red;
+	border-left: 100px solid transparent;
+    background: white;
+}
+
+.box {
+    color: white;
+    min-height: 150px;
+}
+
+.bg-black{
+    background: black
+}
+
+.bg-grey{
+    background: grey;
+}
+
+.jumbotron {
+    background: url("https://cdn.vox-cdn.com/thumbor/d4W1yeSVwtAKDP2yPLSqynkqv00=/0x108:2880x2028/1200x800/filters:focal(0x108:2880x2028)/cdn.vox-cdn.com/uploads/chorus_image/image/46756014/0715_USA-FRA_SocMed07.0.0.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
